@@ -1,4 +1,2 @@
-# Cinelect
-Let's pick a movie!
+# Stock Game!
 
-find the working version here: https://cinelect.vercel.app/
